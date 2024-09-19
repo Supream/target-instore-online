@@ -1,5 +1,5 @@
 # target-instore-online
-inventory monitor
+inventory monitor created in 2020
 
 monitor in-store inventory from target retail stores 
 utilizing network requests and public API's
